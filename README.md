@@ -1,10 +1,10 @@
 # Sakura - The Backgammon Board Evaluator
 
-**fastApiProject** is a top-notch Backgammon Evaluation Service built with FastAPI. It is designed to understand and evaluate the state of a Backgammon board and provide insightful strategic guidance based on that.
+**Sakura** is a top-notch Backgammon Evaluation Service built with FastAPI. It is designed to understand and evaluate the state of a Backgammon board and provide insightful strategic guidance based on that.
 
 ## What does it do?
 
-**fastApiProject** hosts an `EvaluateBoardService` class containing functionality to evaluate the game's board and determine the winning strategy. 
+**Sakura** hosts an `EvaluateBoardService` class containing functionality to evaluate the game's board and determine the winning strategy. 
 
 ### Main methods of EvaluateBoardService class:
 
@@ -17,13 +17,11 @@
 - `has_checkers_outside_home`: Checks if some counters are outside the home board.
 - `checkers_in_zone`: Checks the number of counters in a certain zone on the board.
 
-Certainly! Here's a cleaner, more concise markdown version of your "Getting Started" and "Usage" sections for the README, formatted for readability and aesthetics:
-
 ---
 
 ## Getting Started
 
-To set up and start using the **fastApiProject**, follow these steps:
+To set up and start using the **Sakura**, follow these steps:
 
 1. **Clone the repository**:
    ```
